@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stats-preview-card/static/css/main.c1a9f755.chunk.css",
+    "main.js": "/stats-preview-card/static/js/main.29198553.chunk.js",
+    "main.js.map": "/stats-preview-card/static/js/main.29198553.chunk.js.map",
+    "runtime-main.js": "/stats-preview-card/static/js/runtime-main.90f13c95.js",
+    "runtime-main.js.map": "/stats-preview-card/static/js/runtime-main.90f13c95.js.map",
+    "static/js/2.a687f033.chunk.js": "/stats-preview-card/static/js/2.a687f033.chunk.js",
+    "static/js/2.a687f033.chunk.js.map": "/stats-preview-card/static/js/2.a687f033.chunk.js.map",
+    "static/js/3.2194123b.chunk.js": "/stats-preview-card/static/js/3.2194123b.chunk.js",
+    "static/js/3.2194123b.chunk.js.map": "/stats-preview-card/static/js/3.2194123b.chunk.js.map",
+    "index.html": "/stats-preview-card/index.html",
+    "static/css/main.c1a9f755.chunk.css.map": "/stats-preview-card/static/css/main.c1a9f755.chunk.css.map",
+    "static/js/2.a687f033.chunk.js.LICENSE.txt": "/stats-preview-card/static/js/2.a687f033.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/stats-preview-card/static/media/image-header-mobile.399f71e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f13c95.js",
+    "static/js/2.a687f033.chunk.js",
+    "static/css/main.c1a9f755.chunk.css",
+    "static/js/main.29198553.chunk.js"
+  ]
+}

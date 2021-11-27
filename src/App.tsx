@@ -1,24 +1,38 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import styles from './App.module.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={styles.app}>
+      <div className={styles.card}>
+        <div className={styles.content}>
+          <h1>
+            Get <span className={styles.accent}>insights</span> that help your business grow.
+          </h1>
+
+          <h2>
+            Discover the benefits of data analytics and make
+            better decisions regarding revenue, customer
+            experience, and overall efficiency.
+          </h2>
+          <div className={styles.highlights}>
+            <div>
+              <h3>10k+</h3>
+              <p>companies</p>
+            </div>
+            <div>
+              <h3>314</h3>
+              <p>templates</p>
+            </div>
+            <div>
+              <h3>12M+</h3>
+              <p>queries</p>
+            </div>
+          </div>
+        </div>
+        <div className={styles.image} />
+      </div>
     </div>
   );
 }
