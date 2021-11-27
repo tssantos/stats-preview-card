@@ -4,7 +4,7 @@ import styles from './App.module.css';
 
 function App() {
   return (
-    <div className={styles.app}>
+    <main className={styles.app}>
       <div className={styles.card}>
         <div className={styles.content}>
           <h1>
@@ -33,7 +33,7 @@ function App() {
         </div>
         <div className={styles.image} />
       </div>
-    </div>
+    </main>
   );
 }
 
